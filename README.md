@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @supermariobueno
-- 👀 I’m interested in videogames, Nintendo (my life passion), reading, The Lord of the Rings, Xenoblade & Final Fantasy.
-- 🌱 I’m currently learning System development 
-- 💞️ I’m looking to collaborate on programs and codes
-- 📫 How to reach me: you can reach me on Instragram "supermario_bueno", my Linkedin profile is: "https://www.linkedin.com/in/mario-lucas-bueno-851593156/".
+# Hi, I'm Mario 👋
 
-<!---
-supermariobueno/supermariobueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**IT Analyst | Systems Development | Technology & Business**
+
+I'm an IT professional transitioning from infrastructure and support into **systems development, integration and process improvement**.
+
+I enjoy understanding real-world problems and turning them into practical technology solutions.
+
+### 🚀 Currently working on
+
+* 🟢 **Node.js** — system integration and a proxy microservice for a legacy system
+* 🐍 **Python & Django** — building *Mellow Tarot*, a personal web application
+* 🗄️ **SQL & databases**
+* 🔄 **Process automation and business systems**
+
+### 🧩 Areas I'm interested in
+
+* Software development
+* APIs & system integration
+* Microservices
+* Business systems
+* Process automation
+* Data & Business Intelligence
+
+### 🌎 Languages
+
+🇧🇷 Portuguese — Native
+🇺🇸 English — Fluent
+🇪🇸 Spanish — Advanced
+
+### 🔗 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/mario-lucas-bueno/)
+
+---
+
+> Building things, solving problems, and learning along the way.
