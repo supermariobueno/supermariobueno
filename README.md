@@ -9,7 +9,7 @@ I enjoy understanding real-world problems and turning them into practical techno
 ### 🚀 Currently working on
 
 * 🟢 **Node.js** — system integration and a proxy microservice for a legacy system
-* 🐍 **Python & Django** — building *Mellow Tarot*, a personal web application
+* 🐍 **Python & Django** — building *Mellow Tarot* and *PixelMarket* as personal web applications
 * 🗄️ **SQL & databases**
 * 🔄 **Process automation and business systems**
 
